@@ -6,7 +6,7 @@ Must be run as root for access to network interfaces.
 ## Usage
 Takes input of a CSV file formatted like:
 ```commandline
-domain.name,80,443,
+domain.name,80,443
 otherdomain.name, 80, 443
 ```
 Provides a CSV output in `./check_results.csv` of:
