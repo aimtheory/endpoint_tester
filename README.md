@@ -14,3 +14,6 @@ Provides a CSV output in `./check_results.csv` of:
 domain.name,open, open, 11
 otherdomain.name, open, closed, 13
 ```
+
+# TODO
+Make output cleaner and more elegant.
